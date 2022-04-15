@@ -18,3 +18,7 @@ mis lenguajes:
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+
+stats:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkqz&theme=chartreuse-dark&langs_count=5">
