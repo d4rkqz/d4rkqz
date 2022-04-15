@@ -10,11 +10,11 @@ me puedes contactar por aqui:
 
 mis lenguajes:
 
-<img src="https://img.shields.io/badge/-JavaScript-0D1117?style=rounded-square&logo=javascript&logoColor=D02929">
-
-<img src="https://img.shields.io/badge/React-0D1117.svg?style=rounded-square&logo=react&logoColor=D02929">
-
-<img src="https://img.shields.io/badge/-Python-0D1117?style=rounded-square&logo=python&logoColor=D02929">
-
-<img src="https://img.shields.io/badge/-C++-0D1117?style=rounded-square&logo=cplusplus&logoColor=D02929">
-
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
