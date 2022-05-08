@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mosca</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left">
 <br>
 <h3 align="center">Programador Y Pentester</h3>
 
@@ -10,5 +8,14 @@
 <h1 align="Center>Mi Portafolio :)</h1>
 
 https://d4rkqz.github.io/osixx.github.io/
+
+<h3 align="center">Mis Lenguajes:</h3>
+
+<h3 align="center">Front End:</h3>
+<img height="150" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="150" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> <img height="150" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img height="150" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
+
+
+
+
 
 
